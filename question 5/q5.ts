@@ -1,7 +1,7 @@
 /*Famous Quote: Find a quote from a famous person you admire.
 Print the quote and the name of its author */
 
-//store the name of the author in variabel
+//store the name of the author in variable
 
 let author_name:string="Imam Ali ";
 
