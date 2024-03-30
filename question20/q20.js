@@ -11,6 +11,10 @@ var rivers = ["Indus river", " Jhelum river", " Chenab river", " Sutlej river", 
 console.log("\nThe list of the mountains present in a Pakistan are ".concat(rivers));
 // list of countries
 var countries = ["Pakistan", " Saudia Arabia", " Iran", " Afghanistan", " China"];
+for (var _i = 0, countries_1 = countries; _i < countries_1.length; _i++) {
+    country = countries_1[_i];
+    console.log("\nThe list of countries are ".concat(country));
+}
 //print the list of countries
 console.log("\nThe list of countries are ".concat(countries));
 //list of cities
