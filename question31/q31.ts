@@ -6,7 +6,7 @@
 //create a variable that store an element of the user name
 let user_names:string[]=["Mujtaba","Maaz","Ahmed","admin","Afzal"]
 
-//This statement slice method is use for the deleting all the element inside the array 
+//This statement used slice method is use for the deleting all the element inside the array 
 user_names.splice(0)
 
 //print the element by using the for loop and attach the greeting message with them
